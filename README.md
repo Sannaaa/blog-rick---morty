@@ -1,3 +1,5 @@
+Adresse e-mail : lorris.sanna@edu.univ-fcomte.fr
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
